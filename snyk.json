@@ -1,23 +1,12 @@
-class Snyk < Formula
-  desc "Find & fix known vulnerabilities in open-source dependencies"
-  homepage "https://github.com/snyk/snyk"
-  version "v1.226.1"
-
-  if OS.mac?
-    url "https://github.com/snyk/snyk/releases/download/v1.226.1/snyk-macos"
-    sha256 "3216e7d75677d95b021e44aacef7aed481fdb8d175644f458f9f7ed637d9276b"
-  elsif OS.linux?
-    url "https://github.com/snyk/snyk/releases/download/v1.226.1/snyk-linux"
-    sha256 "34d8de7a6312789eb72096a3b8373e3fd6bfbe8f2ab31ba283689a9e618683c0"
-  end
-
-  def install
-    original = OS.linux? ? "snyk-linux" : "snyk-macos"
-    mv original, "snyk"
-    bin.install "snyk"
-  end
-
-  test do
-    system "#{bin}/snyk --version"
-  end
-end
+{
+    "version": "v1.227.0",
+    "url":  "https://github.com/snyk/snyk/releases/download/v1.227.0/snyk-win.exe,
+    "bin": [
+        "snyk-win.exe",
+        "snyk"
+    ],
+    "hash": "c3b407057b71feca6350e7ad0bec57381991fe49211d62c595afee27b5fab99b",
+    "homepage": "https://github.com/snyk/snyk",
+    "description": "Find & fix known vulnerabilities in open-source dependencies",
+    "license": "Apache-2.0"
+}

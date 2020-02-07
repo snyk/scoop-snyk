@@ -1,6 +1,6 @@
 {
     "version": "v1.290.2",
-    "url":  "https://github.com/snyk/snyk/releases/download/v1.290.2/snyk-win.exe,
+    "url":  "https://github.com/snyk/snyk/releases/download/v1.290.2/snyk-win.exe",
     "bin": [
         "snyk-win.exe",
         "snyk"

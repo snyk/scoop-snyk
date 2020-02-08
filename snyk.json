@@ -2,8 +2,10 @@
     "version": "v1.290.2",
     "url":  "https://github.com/snyk/snyk/releases/download/v1.290.2/snyk-win.exe",
     "bin": [
-        "snyk-win.exe",
-        "snyk"
+        [
+          "snyk-win.exe",
+          "snyk"
+        ]
     ],
     "hash": "cbfbc81fd0f0fcab6be88397565703a1833e04cb3eef902fe640efdf46a79e12",
     "homepage": "https://github.com/snyk/snyk",

@@ -1,13 +1,13 @@
 {
-    "version": "v1.314.0",
-    "url":  "https://github.com/snyk/snyk/releases/download/v1.314.0/snyk-win.exe",
+    "version": "v1.315.1",
+    "url":  "https://github.com/snyk/snyk/releases/download/v1.315.1/snyk-win.exe",
     "bin": [
         [
           "snyk-win.exe",
           "snyk"
         ]
     ],
-    "hash": "5f5936bbcd1732ed53e43e0e1fa95e8d377e795a947d5808aa5b4739b0469413",
+    "hash": "76f92d266b9df8ecc749813f6d4724d79a4e82c823731ad6780a5a6ffe327ae0",
     "homepage": "https://github.com/snyk/snyk",
     "description": "Find & fix known vulnerabilities in open-source dependencies",
     "license": "Apache-2.0"

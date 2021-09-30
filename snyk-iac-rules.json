@@ -1,0 +1,15 @@
+{
+    "version": "0.2.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/snyk/snyk-iac-rules/releases/download/v0.2.1/snyk-iac-rules_0.2.1_Windows_x86_64.zip",
+            "bin": [
+                "snyk-iac-rules.exe"
+            ],
+            "hash": "601469de819abe1062e668efd64645ed8469f30404e944a0a07cf8d647dae4f7"
+        }
+    },
+    "homepage": "https://snyk.io/",
+    "license": "Apache-2.0",
+    "description": "Write, debug, test, and bundle custom rules for Snyk Infrastructure as Code."
+}

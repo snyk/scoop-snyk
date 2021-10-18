@@ -1,12 +1,12 @@
 {
-    "version": "0.3.1",
+    "version": "0.4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/snyk/snyk-iac-rules/releases/download/v0.3.1/snyk-iac-rules_0.3.1_Windows_x86_64.zip",
+            "url": "https://github.com/snyk/snyk-iac-rules/releases/download/v0.4.0/snyk-iac-rules_0.4.0_Windows_x86_64.zip",
             "bin": [
                 "snyk-iac-rules.exe"
             ],
-            "hash": "b208c8c38022ac102592b6f44051bf9722a5c2b2f181337ef253dd10701f27c6"
+            "hash": "3ce4c3d3fbdbec3f9bfedf6d7fcfce3bbca6241d244277a6a3780d96d9979be2"
         }
     },
     "homepage": "https://snyk.io/",

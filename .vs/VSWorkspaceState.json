@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\.github\\workflows"
   ],
-  "SelectedNode": "\\C:\\Users\\vrues\\source\\repos\\Winslohw\\scoop-snyk",
+  "SelectedNode": "\\.github\\workflows\\schedule.yml",
   "PreviewInSolutionExplorer": false
 }

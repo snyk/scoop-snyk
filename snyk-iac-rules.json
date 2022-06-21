@@ -6,7 +6,7 @@
             "bin": [
                 "snyk-iac-rules.exe"
             ],
-            "hash": "8387a1bda262ec222fd28d50886c6fbbcde3f50964246a3ec4ef0eb5ae143c15"
+            "hash": "eed4285ec23e01ce5552c80973464d9ec8d456602c858b0cdd61e1d7fb156177"
         }
     },
     "homepage": "https://snyk.io/",

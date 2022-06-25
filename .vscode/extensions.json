@@ -1,0 +1,22 @@
+{
+    "recommendations": [
+        "shyykoserhiy.git-autoconfig",
+        "bierner.emojisense",
+        "formulahendry.auto-rename-tag",
+        "denoland.vscode-deno",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "mhutchie.git-graph",
+        "waderyan.gitblame",
+        "donjayamanne.git-extension-pack",
+        "felipecaputo.git-project-manager",
+        "huizhou.githd",
+        "github.vscode-pull-request-github",
+        "github.github-vscode-theme",
+        "shaharkazaz.git-merger",
+        "codezombiech.gitignore",
+        "bibhasdn.git-easy",
+        "github.copilot",
+        "letmaik.git-tree-compare"
+    ]
+}

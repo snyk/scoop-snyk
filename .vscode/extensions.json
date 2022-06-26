@@ -56,6 +56,23 @@
         "sbastienlevy.covertops-cmake-llvm",
         "ms-vscode.cpptools-extension-pack",
         "el-robo.fix-compile-commands",
-        "Kr4is.cpptools-extension-pack"
+        "kr4is.cpptools-extension-pack",
+        "dart-code.dart-code",
+        "dart-code.flutter",
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-java-debug",
+        "ms-dotnettools.csharp",
+        "vscjava.vscode-java-test",
+        "redhat.java",
+        "wallabyjs.quokka-vscode",
+        "formulahendry.auto-complete-tag",
+        "steoates.autoimport",
+        "formulahendry.auto-close-tag",
+        "ivangabriele.vscode-git-add-and-commit",
+        "emjio.git-auto-commit",
+        "ms-vscode.powershell",
+        "snyk-security.snyk-vulnerability-scanner",
+        "snyk-security.snyk-vulnerability-scanner-preview",
+        "snyk-security.vscode-vuln-cost"
     ]
 }

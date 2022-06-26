@@ -29,7 +29,9 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"shyykoserhiy.git-autoconfig"
+				"shyykoserhiy.git-autoconfig",
+				"GitHub.vscode-pull-request-github",
+				"mitaki28.vscode-clang"
 			]
 		}
 	}

@@ -73,6 +73,7 @@
         "ms-vscode.powershell",
         "snyk-security.snyk-vulnerability-scanner",
         "snyk-security.snyk-vulnerability-scanner-preview",
-        "snyk-security.vscode-vuln-cost"
+        "snyk-security.vscode-vuln-cost",
+        "ms-vscode-remote.remote-containers"
     ]
 }

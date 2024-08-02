@@ -12,7 +12,7 @@ require "open-uri"
 # Return the URL, SHA and version information for the latest release
 def get_latest_release()
   bin = "snyk-win.exe"
-  snyk_cli_version_url = "https://static.snyk.io/cli/latest/release.json"
+  snyk_cli_version_url = "https://downloads.snyk.io/cli/latest/release.json"
   data = URI.parse(snyk_cli_version_url).read
   obj = JSON.parse(data)
   version = obj["version"]

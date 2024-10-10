@@ -22,7 +22,7 @@ def get_latest_release()
   uri = URI.parse(url)
   new_query_ar = URI.decode_www_form(uri.query || '') << ["utm_source", "SCOOP"]
   uri.query = URI.encode_www_form(new_query_ar)
-  url_with_utm = uri.to_s
+  url_with_utm = uri.to_s + "#/snyk-win.exe"
 
   sha256 = obj["assets"][bin]["sha256"].split.first
 

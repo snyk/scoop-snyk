@@ -1,6 +1,6 @@
 {
     "version": "1.1293.1",
-    "url":  "https://downloads.snyk.io/cli/v1.1293.1/snyk-win.exe?utm_source=SCOOP",
+    "url":  "https://downloads.snyk.io/cli/v1.1293.1/snyk-win.exe?utm_source=SCOOP#/snyk-win.exe",
     "bin": [
         [
           "snyk-win.exe",
